@@ -22,7 +22,7 @@ const Home = () => {
             <h2>START-UP: WITH FIREBASE </h2>
             <div className="badges">
             <Link href="/about"><button>Link to About</button></Link>
-            <button className="blue" onClick={handleInsert}>Insertion Test</button>
+            <button className="blue" onClick={handleInsert}>Attempt Insertion</button>
 
             </div>
             
